@@ -16,4 +16,4 @@
 Email: rita.s.github@gmail.com
 
 
-### 💻 Using technology to enhance human potential, one line of code at a time.
+### 💻 Using technology to enhance human potential.
